@@ -1,0 +1,11 @@
+numpy
+imutils
+scikit-image
+opencv-python-headless
+pygame
+aubio
+music21
+pyaudio
+parselmouth
+
+
